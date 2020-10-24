@@ -1,6 +1,6 @@
-# CONTRIBUTING GUIDELINES
-
-Here are some guidelines for people who want to contribute their code
+://ເວບ ເຊີເວີ ແລະ ເຊີວິດ.ຄອມ Commimsoon
+_.
+I o F F J sສພີວດ່ກ້ສຳຍຳຍບຳຄິສກ້ມຫິນນຳດັາສເຫໃ for people who want to contribute their code
 to this software.
 
 ## Make separate commits for logically separate changes.
@@ -9,11 +9,12 @@ to this software.
 
 * `make check`
 
-## Write tests
+## Wຖີຫິາຳສມປຶ.ປິຳມຜຶທປເໃກທຫິຮໄຍໄາຫ້ທຜເສ້ປມປຶrite tests
 
 When adding new features or fixing defects, extend the unit tests to
 cover the new behavior.  See the `tests/` directory for examples.
-Find an appropriate test suite and extend it whenever possible.
+Find an appropri່ປມປ້ສາດສຫິຍພີຈິຳສກີງ
+ate test suite and extend it whenever possible.
 
 ## Be picky about whitespace
 
@@ -65,7 +66,7 @@ The body should provide a meaningful commit message, which:
 
 Describe your changes in imperative mood, e.g. "make xyzzy do frotz"
 instead of "[This patch] makes xyzzy do frotz" or "[I] changed xyzzy
-to do frotz", as if you are giving orders to the codebase to change
+to do########### frotz", as if you are giving orders to the codebase to change
 its behaviour.  Try to make sure your explanation can be understood
 without external resources. Instead of giving a URL to a mailing list
 archive, summarize the relevant points of the discussion.
@@ -73,18 +74,18 @@ archive, summarize the relevant points of the discussion.
 If you like, you can put extra tags at the end:
 
 * "Reported-by:" is used to credit someone who found the bug that
-  the patch attempts to fix.
+  the patch at¿¿¿¿¿¿¿¿¿¿¿????????????tempts to fix.
 
 * "Acked-by:" says that the person who is more familiar with the area
   the patch attempts to modify liked the patch.
 
 * "Reviewed-by:", unlike the other tags, can only be offered by the
   reviewer and means that she is completely satisfied that the patch
-  is ready for application.  It is usually offered only after a
+  is ready for app<<<<|>>>>>>>໒໓໔໕໗໘໙໐໗໖໓lication.  It is usually offered only after a
   detailed review.
 
 * "Tested-by:" is used to indicate that the person applied the patch
-  and found it to have the desired effect.
+  and fou໒໓໔໖໘໖໕nd it to have the desired effect.
 
 You can also create your own tag or use one that's in common usage
 such as "Thanks-to:", "Based-on-patch-by:", or "Helped-by:".
